@@ -71,7 +71,7 @@ Projeto em grupo voltado para sustentabilidade e monitoramento da qualidade da Ã
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeirozkji&layout=compact&theme=tokyonight)
 
 </div>
----
+
 
 
 
