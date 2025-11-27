@@ -76,7 +76,7 @@ Projeto em grupo voltado para sustentabilidade e monitoramento da qualidade da Ã
 
 <div align="left">
 
-<a href="https://instagram.com/ribeirozkji" target="_blank">
+<a href="https://instagram.com/ribeirozjki" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
