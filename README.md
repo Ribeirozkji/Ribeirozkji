@@ -62,3 +62,13 @@ Projeto em grupo voltado para sustentabilidade e monitoramento da qualidade da �
 **Nível do projeto:** Início da fase de estruturação.
 
 ---
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ribeirozkji&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeirozkji&layout=compact&theme=tokyonight)
+
+</div>
+---
