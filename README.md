@@ -72,6 +72,8 @@ Projeto em grupo voltado para sustentabilidade e monitoramento da qualidade da Ã
 
 </div>
 ---
+
+
 ## ğŸŒ Redes Sociais
 
 <div align="left">
