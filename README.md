@@ -72,3 +72,18 @@ Projeto em grupo voltado para sustentabilidade e monitoramento da qualidade da Ã
 
 </div>
 ---
+## ğŸŒ Redes Sociais
+
+<div align="left">
+
+<a href="https://instagram.com/ribeirozkji" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pedro-henrique-14bba7303" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+
+</div>
