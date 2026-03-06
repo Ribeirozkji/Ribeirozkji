@@ -1,91 +1,18 @@
-### Ribeiroz 👋
-Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, sustentabilidade e pelas possibilidades da Economia Verde. Sempre buscando aprender, criar e construir soluções que façam a diferença no mundo. 🌱💻
+# 💫 Pedro Henrique :
+Olá! Sou aluno no Senac. Estou cursando análise e desenvolvimento de sistemas, busco me profissionalizar nas minhas áreas de interesse <br>que incluem Desenvolvimento Web, Data Science, CyberSecurity e DevOps.<br>Com este perfil, tenho como objetivo compartilhar e desenvolver projetos, registrar minha evolução e aplicar melhoria contínua na minha trajetória como profissional<br>
 
-## 🌍 Sobre Mim 
-- Curioso por novas tecnologias e inovações sustentáveis
-- Focado em desenvolver soluções que unam tecnologia e impacto ambiental
-- Entusiasta da Economia Verde e futurista nas horas vagas
 
-## 💼 Formação e Certificações
-- 🎓 **ADS – Análise e Desenvolvimento de Sistemas (Senac)**  
-- 🛡️ **Cisco Cyber Threat Management** – fundamentos de segurança, identificação de ameaças, defesa e análise
+## 🌐 Rede Sociais:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ribeirozkji) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ribeirozjki/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pedro-henrique-14bba7303) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Top-Recipe-3602/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Pedro Henrique) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phassumpcao346@gmail.com) 
 
-## 💻 Habilidades Técnicas
-- **Python** – conhecimento básico, focado em fundamentos e lógica  
-- **Java** – conhecimento básico/intermediário, domínio de Programação Orientada a Objetos (POO)  
-- **JavaScript** – conhecimento básico, explorando conceitos de web  
-- **Node.js** – nível básico, aprendendo fundamentos do backend  
-- **PHP** – criação de sistemas simples com **CRUD** (Create, Read, Update, Delete)  
-- **SQL** – consultas básicas, criação de tabelas, chaves, SELECT, INSERT, UPDATE, DELETE  
-- **HTML & CSS** – base sólida para desenvolvimento web  
-- **Git & GitHub** – versionamento básico e organização de projetos
-## 🌱 Interesses
-
-- **Sustentabilidade & Economia Verde** – tecnologias limpas, energias renováveis e impacto ambiental  
-- **Tecnologia & Desenvolvimento** – programação, sistemas e soluções digitais  
-- **Inovação & Futuro** – IA, automação e tendências tecnológicas  
-- **Outras áreas** – sempre aberto a aprender e evoluir  
-
-Tenho grande interesse em sustentabilidade e Economia Verde, mas também sou versátil e trabalho com diferentes áreas dentro da tecnologia. Gosto de explorar novas ferramentas, linguagens e soluções, sempre buscando aprender e evoluir.
+# 💻 Minha Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Status:
+![](https://github-readme-stats.vercel.app/api?username=ribeirozkji&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ribeirozkji&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirozkji&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ribeirozkji&icon=2&color=1)](https://visitcount.itsvg.in)
 
-## 🚀 Projetos em Desenvolvimento
-
-### 🧩 ProjectFlow  
-Projeto focado em organização de tarefas, fluxo de atividades e produtividade.
-
-**Objetivo:** ajudar pessoas e equipes a planejarem rotinas com mais clareza.  
-**Tecnologias (atuais):** *HTML, CSS, JavaScript, Node.js básico, PHP/CRUD opcional*  
-**Nível do projeto:** Em desenvolvimento e evoluindo conforme meu aprendizado.
-
----
-
-### 🔗 ConectaTudo  
-Plataforma pensada para centralizar serviços, melhorar o atendimento digital e integrar automações.
-
-**Objetivo:** resolver problemas reais do dia a dia, como demora em respostas, filas, entregas e falta de organização entre cliente e serviço.  
-**Tecnologias (atuais):**  
-- *HTML, CSS, JavaScript*  
-- *Python (automações, fluxos automáticos e integrações)*  
-- *PHP (quando necessário para lógica do backend)*  
-
-**Nível do projeto:** Em construção, com foco em automações e integrações inteligentes.
-
----
-
-### 💧 AquaLimpa  
-Projeto em grupo voltado para sustentabilidade e monitoramento da qualidade da água.
-
-**Objetivo:** desenvolver soluções tecnológicas que auxiliem comunidades e reduzam impactos ambientais.  
-**Tecnologias (atuais):** *Python (básico), SQL (básico), lógica, possíveis integrações futuras*  
-**Nível do projeto:** Início da fase de estruturação.
-
----
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ribeirozkji&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeirozkji&layout=compact&theme=tokyonight)
-
-</div>
-
-
-
-
-
-<div align="left">
-
-<a href="https://instagram.com/ribeirozjki" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/pedro-henrique-14bba7303" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
