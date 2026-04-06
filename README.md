@@ -29,11 +29,12 @@ Este perfil reúne projetos, estudos e evolução técnica com ênfase em constr
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 
 ## Estatísticas
-![](https://github-readme-stats.vercel.app/api?username=ribeirozkji&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=ribeirozkji&theme=github_dark&hide_border=true)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ribeirozkji&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeirozkji&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirozkji&theme=github_dark&hide_border=true&layout=compact)
-
----
-![](https://visitcount.itsvg.in/api?id=ribeirozkji&icon=2&color=12)
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=Ribeirozkji&theme=github-dark&hide_border=true" />
+</p>
