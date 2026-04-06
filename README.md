@@ -1,34 +1,39 @@
 # Pedro Henrique
 
-Estudante de Análise e Desenvolvimento de Sistemas no Senac, com foco em construção de base sólida em desenvolvimento de software.  
-Interesses principais em desenvolvimento web, backend, cibersegurança e infraestrutura.  
-Uso este perfil para registrar evolução, publicar projetos e consolidar prática técnica de forma consistente.
+Estudante de Análise e Desenvolvimento de Sistemas no Senac, com foco em backend, desenvolvimento web, cibersegurança e infraestrutura.  
+Este perfil reúne projetos, estudos e evolução técnica com ênfase em construção sólida de software e melhoria contínua.
 
 ## Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pedro-henrique-14bba7303)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ribeirozjki/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ribeirozkji)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Top-Recipe-3602/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-14bba7303)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ribeirozkji)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ribeirozjki)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Top-Recipe-3602)
 
-## Tecnologias
+## Stack
 
 ### Linguagens
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Front-end
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF)
 
 ### Back-end
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E)
 
 ### Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 ### Versionamento
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 
 ## Estatísticas
-![](https://github-readme-stats.vercel.app/api?username=ribeirozkji&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=ribeirozkji&theme=blue_navy&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirozkji&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ribeirozkji&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=ribeirozkji&theme=github_dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirozkji&theme=github_dark&hide_border=true&layout=compact)
+
+---
+![](https://visitcount.itsvg.in/api?id=ribeirozkji&icon=2&color=12)
