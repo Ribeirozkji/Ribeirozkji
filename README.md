@@ -1,4 +1,4 @@
-# Pedro Henrique
+# Pedro Henrique Ribeiro
 
 Desenvolvedor Full-Stack em formação | React, Node.js, JavaScript e MySQL | Construindo aplicações web, APIs e projetos com foco em organização, usabilidade e boas práticas.
 
