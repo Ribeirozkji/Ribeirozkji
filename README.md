@@ -6,7 +6,7 @@ Este perfil reúne projetos, estudos e evolução técnica voltados à construç
 
 ## Objetivo profissional
 
-Busco oportunidades de estágio ou posição júnior em desenvolvimento web/backend, onde eu possa aplicar meus conhecimentos em projetos reais, evoluir tecnicamente e contribuir com soluções bem estruturadas.
+Busco oportunidades como estagiário ou desenvolvedor júnior em desenvolvimento web/backend, contribuindo com aplicações organizadas, APIs REST, integração com banco de dados e evolução contínua de produtos digitais.
 
 ## Contato
 
