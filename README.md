@@ -1,6 +1,6 @@
 # Pedro Henrique
 
-Estudante de Análise e Desenvolvimento de Sistemas no Senac, com foco em desenvolvimento web e backend utilizando JavaScript, Node.js, React e MySQL.
+Desenvolvedor Full-Stack em formação | React, Node.js, JavaScript e MySQL | Construindo aplicações web, APIs e projetos com foco em organização, usabilidade e boas práticas.
 
 Este perfil reúne projetos, estudos e evolução técnica voltados à construção de aplicações web, APIs, bancos de dados e boas práticas de desenvolvimento. Também estudo fundamentos de cibersegurança e infraestrutura para ampliar minha visão sobre software, segurança e ambientes de aplicação.
 
